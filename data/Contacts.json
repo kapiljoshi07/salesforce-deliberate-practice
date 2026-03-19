@@ -1,0 +1,372 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "ConRef1"
+      },
+      "Email": "mpreon0@mapy.cz",
+      "FirstName": "Miquela",
+      "LastName": "Preon",
+      "MailingCity": "Jacksonville",
+      "MailingCountry": "US",
+      "MailingPostalCode": 32244,
+      "MailingState": "FL",
+      "MailingStreet": "76763 Anniversary Center",
+      "MobilePhone": "+1 (904) 525-7134",
+      "AccountId": "@AccRef1"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "ConRef2"
+      },
+      "Email": "jackson.hayes@example.com",
+      "FirstName": "Jackson",
+      "LastName": "Hayes",
+      "MailingCity": "Orlando",
+      "MailingCountry": "US",
+      "MailingPostalCode": 32801,
+      "MailingState": "FL",
+      "MailingStreet": "245 Pine Ridge Ave",
+      "MobilePhone": "+1 (407) 832-1144",
+      "AccountId": "@AccRef1"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "ConRef3"
+      },
+      "Email": "nina.patel@example.com",
+      "FirstName": "Nina",
+      "LastName": "Patel",
+      "MailingCity": "Tampa",
+      "MailingCountry": "US",
+      "MailingPostalCode": 33602,
+      "MailingState": "FL",
+      "MailingStreet": "18 Bayshore Commons",
+      "MobilePhone": "+1 (813) 555-9021",
+      "AccountId": "@AccRef1"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "ConRef4"
+      },
+      "Email": "ethan.ward@example.com",
+      "FirstName": "Ethan",
+      "LastName": "Ward",
+      "MailingCity": "Austin",
+      "MailingCountry": "US",
+      "MailingPostalCode": 78701,
+      "MailingState": "TX",
+      "MailingStreet": "910 Congress Plaza",
+      "MobilePhone": "+1 (512) 410-3345",
+      "AccountId": "@AccRef2"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "ConRef5"
+      },
+      "Email": "sofia.ramirez@example.com",
+      "FirstName": "Sofia",
+      "LastName": "Ramirez",
+      "MailingCity": "Dallas",
+      "MailingCountry": "US",
+      "MailingPostalCode": 75201,
+      "MailingState": "TX",
+      "MailingStreet": "711 Elm District Suite 200",
+      "MobilePhone": "+1 (214) 689-7742",
+      "AccountId": "@AccRef2"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "ConRef6"
+      },
+      "Email": "liam.murphy@example.com",
+      "FirstName": "Liam",
+      "LastName": "Murphy",
+      "MailingCity": "San Diego",
+      "MailingCountry": "US",
+      "MailingPostalCode": 92101,
+      "MailingState": "CA",
+      "MailingStreet": "400 Harborfront Way",
+      "MobilePhone": "+1 (619) 300-1180",
+      "AccountId": "@AccRef3"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "ConRef7"
+      },
+      "Email": "amelia.nguyen@example.com",
+      "FirstName": "Amelia",
+      "LastName": "Nguyen",
+      "MailingCity": "San Jose",
+      "MailingCountry": "US",
+      "MailingPostalCode": 95110,
+      "MailingState": "CA",
+      "MailingStreet": "55 Market Center Blvd",
+      "MobilePhone": "+1 (408) 441-2234",
+      "AccountId": "@AccRef3"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "ConRef8"
+      },
+      "Email": "owen.sullivan@example.com",
+      "FirstName": "Owen",
+      "LastName": "Sullivan",
+      "MailingCity": "Denver",
+      "MailingCountry": "US",
+      "MailingPostalCode": 80202,
+      "MailingState": "CO",
+      "MailingStreet": "310 Union Station Ct",
+      "MobilePhone": "+1 (720) 512-8890",
+      "AccountId": "@AccRef4"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "ConRef9"
+      },
+      "Email": "grace.choi@example.com",
+      "FirstName": "Grace",
+      "LastName": "Choi",
+      "MailingCity": "Boulder",
+      "MailingCountry": "US",
+      "MailingPostalCode": 80302,
+      "MailingState": "CO",
+      "MailingStreet": "19 Pearl Innovation Park",
+      "MobilePhone": "+1 (303) 404-6602",
+      "AccountId": "@AccRef4"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "ConRef10"
+      },
+      "Email": "noah.kim@example.com",
+      "FirstName": "Noah",
+      "LastName": "Kim",
+      "MailingCity": "Chicago",
+      "MailingCountry": "US",
+      "MailingPostalCode": 60606,
+      "MailingState": "IL",
+      "MailingStreet": "290 Lakeshore Tower",
+      "MobilePhone": "+1 (312) 518-9007",
+      "AccountId": "@AccRef5"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "ConRef11"
+      },
+      "Email": "ava.rossi@example.com",
+      "FirstName": "Ava",
+      "LastName": "Rossi",
+      "MailingCity": "Naperville",
+      "MailingCountry": "US",
+      "MailingPostalCode": 60540,
+      "MailingState": "IL",
+      "MailingStreet": "77 Prairie Commons",
+      "MobilePhone": "+1 (630) 700-1155",
+      "AccountId": "@AccRef5"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "ConRef12"
+      },
+      "Email": "elijah.brown@example.com",
+      "FirstName": "Elijah",
+      "LastName": "Brown",
+      "MailingCity": "Seattle",
+      "MailingCountry": "US",
+      "MailingPostalCode": 98101,
+      "MailingState": "WA",
+      "MailingStreet": "808 Rainier Center",
+      "MobilePhone": "+1 (206) 744-3229",
+      "AccountId": "@AccRef6"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "ConRef13"
+      },
+      "Email": "mia.kapoor@example.com",
+      "FirstName": "Mia",
+      "LastName": "Kapoor",
+      "MailingCity": "Redmond",
+      "MailingCountry": "US",
+      "MailingPostalCode": 98052,
+      "MailingState": "WA",
+      "MailingStreet": "120 Maple Business Park",
+      "MobilePhone": "+1 (425) 212-7781",
+      "AccountId": "@AccRef6"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "ConRef14"
+      },
+      "Email": "william.jones@example.com",
+      "FirstName": "William",
+      "LastName": "Jones",
+      "MailingCity": "Phoenix",
+      "MailingCountry": "US",
+      "MailingPostalCode": 85004,
+      "MailingState": "AZ",
+      "MailingStreet": "640 Camelback Plaza",
+      "MobilePhone": "+1 (602) 701-4403",
+      "AccountId": "@AccRef7"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "ConRef15"
+      },
+      "Email": "isabella.rivera@example.com",
+      "FirstName": "Isabella",
+      "LastName": "Rivera",
+      "MailingCity": "Tucson",
+      "MailingCountry": "US",
+      "MailingPostalCode": 85701,
+      "MailingState": "AZ",
+      "MailingStreet": "51 Sonoran Tech Park",
+      "MobilePhone": "+1 (520) 650-2288",
+      "AccountId": "@AccRef7"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "ConRef16"
+      },
+      "Email": "james.clark@example.com",
+      "FirstName": "James",
+      "LastName": "Clark",
+      "MailingCity": "Atlanta",
+      "MailingCountry": "US",
+      "MailingPostalCode": 30303,
+      "MailingState": "GA",
+      "MailingStreet": "330 Peachtree Exchange",
+      "MobilePhone": "+1 (404) 600-9930",
+      "AccountId": "@AccRef8"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "ConRef17"
+      },
+      "Email": "charlotte.green@example.com",
+      "FirstName": "Charlotte",
+      "LastName": "Green",
+      "MailingCity": "Savannah",
+      "MailingCountry": "US",
+      "MailingPostalCode": 31401,
+      "MailingState": "GA",
+      "MailingStreet": "22 Riverfront Square",
+      "MobilePhone": "+1 (912) 350-7712",
+      "AccountId": "@AccRef8"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "ConRef18"
+      },
+      "Email": "benjamin.lee@example.com",
+      "FirstName": "Benjamin",
+      "LastName": "Lee",
+      "MailingCity": "Minneapolis",
+      "MailingCountry": "US",
+      "MailingPostalCode": 55401,
+      "MailingState": "MN",
+      "MailingStreet": "905 North Loop Ave",
+      "MobilePhone": "+1 (612) 311-5599",
+      "AccountId": "@AccRef9"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "ConRef19"
+      },
+      "Email": "harper.martin@example.com",
+      "FirstName": "Harper",
+      "LastName": "Martin",
+      "MailingCity": "Saint Paul",
+      "MailingCountry": "US",
+      "MailingPostalCode": 55101,
+      "MailingState": "MN",
+      "MailingStreet": "40 Capitol View Terrace",
+      "MobilePhone": "+1 (651) 220-4788",
+      "AccountId": "@AccRef9"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "ConRef20"
+      },
+      "Email": "lucas.thompson@example.com",
+      "FirstName": "Lucas",
+      "LastName": "Thompson",
+      "MailingCity": "Columbus",
+      "MailingCountry": "US",
+      "MailingPostalCode": 43215,
+      "MailingState": "OH",
+      "MailingStreet": "300 Scioto Commons",
+      "MobilePhone": "+1 (614) 715-8834",
+      "AccountId": "@AccRef10"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "ConRef21"
+      },
+      "Email": "evelyn.davis@example.com",
+      "FirstName": "Evelyn",
+      "LastName": "Davis",
+      "MailingCity": "Cleveland",
+      "MailingCountry": "US",
+      "MailingPostalCode": 44114,
+      "MailingState": "OH",
+      "MailingStreet": "119 Rockport Center",
+      "MobilePhone": "+1 (216) 320-7711",
+      "AccountId": "@AccRef10"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "ConRef22"
+      },
+      "Email": "henry.wilson@example.com",
+      "FirstName": "Henry",
+      "LastName": "Wilson",
+      "MailingCity": "Portland",
+      "MailingCountry": "US",
+      "MailingPostalCode": 97204,
+      "MailingState": "OR",
+      "MailingStreet": "77 Stumptown Exchange",
+      "MobilePhone": "+1 (503) 740-6608",
+      "AccountId": "@AccRef11"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "ConRef23"
+      },
+      "Email": "aria.schmidt@example.com",
+      "FirstName": "Aria",
+      "LastName": "Schmidt",
+      "MailingCity": "Eugene",
+      "MailingCountry": "US",
+      "MailingPostalCode": 97401,
+      "MailingState": "OR",
+      "MailingStreet": "12 Willamette Tech Park",
+      "MobilePhone": "+1 (541) 350-2091",
+      "AccountId": "@AccRef11"
+    }
+  ]
+}

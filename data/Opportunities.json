@@ -1,0 +1,268 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "OppRef1"
+      },
+      "Name": "Design (50 - Websites)",
+      "StageName": "Prospecting",
+      "Amount": 10220,
+      "Probability": 10,
+      "CloseDate": "2026-09-15",
+      "AccountId": "@AccRef1"
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "OppRef2"
+      },
+      "Name": "Quantum Integration Suite",
+      "StageName": "Qualification",
+      "Amount": 48000,
+      "Probability": 10,
+      "CloseDate": "2026-05-30",
+      "AccountId": "@AccRef2"
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "OppRef3"
+      },
+      "Name": "Ridge Data Modernization",
+      "StageName": "Need Analysis",
+      "Amount": 27500,
+      "Probability": 20,
+      "CloseDate": "2026-01-20",
+      "AccountId": "@AccRef3"
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "OppRef4"
+      },
+      "Name": "Riverstone Cloud Pilot",
+      "StageName": "Value Proposition",
+      "Amount": 62000,
+      "Probability": 50,
+      "CloseDate": "2026-06-12",
+      "AccountId": "@AccRef4"
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "OppRef5"
+      },
+      "Name": "NorthPeak CX Revamp",
+      "StageName": "Perception Analysis",
+      "Amount": 41500,
+      "Probability": 70,
+      "CloseDate": "2026-03-28",
+      "AccountId": "@AccRef5"
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "OppRef6"
+      },
+      "Name": "Cedar ERP Extension",
+      "StageName": "Prospecting",
+      "Amount": 18900,
+      "Probability": 10,
+      "CloseDate": "2026-08-04",
+      "AccountId": "@AccRef6"
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "OppRef7"
+      },
+      "Name": "Silverline AI Advisory",
+      "StageName": "Qualification",
+      "Amount": 53000,
+      "Probability": 10,
+      "CloseDate": "2026-04-10",
+      "AccountId": "@AccRef7"
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "OppRef8"
+      },
+      "Name": "Iron Harbor WMS Upgrade",
+      "StageName": "Need Analysis",
+      "Amount": 33200,
+      "Probability": 20,
+      "CloseDate": "2026-02-18",
+      "AccountId": "@AccRef8"
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "OppRef9"
+      },
+      "Name": "SummitBridge Partner Portal",
+      "StageName": "Value Proposition",
+      "Amount": 74500,
+      "Probability": 50,
+      "CloseDate": "2026-07-09",
+      "AccountId": "@AccRef9"
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "OppRef10"
+      },
+      "Name": "Evergreen Field Ops App",
+      "StageName": "Perception Analysis",
+      "Amount": 58800,
+      "Probability": 70,
+      "CloseDate": "2026-10-01",
+      "AccountId": "@AccRef10"
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "OppRef11"
+      },
+      "Name": "BrightForge RevGen Accelerator",
+      "StageName": "Prospecting",
+      "Amount": 24100,
+      "Probability": 10,
+      "CloseDate": "2026-12-05",
+      "AccountId": "@AccRef11"
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "OppRef12"
+      },
+      "Name": "Apex Workflow Accelerator",
+      "StageName": "Qualification",
+      "Amount": 46200,
+      "Probability": 10,
+      "CloseDate": "2026-04-22",
+      "AccountId": "@AccRef1"
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "OppRef13"
+      },
+      "Name": "Vertex Analytics Program",
+      "StageName": "Need Analysis",
+      "Amount": 31800,
+      "Probability": 20,
+      "CloseDate": "2026-05-18",
+      "AccountId": "@AccRef2"
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "OppRef14"
+      },
+      "Name": "Nimbus Data Hub",
+      "StageName": "Value Proposition",
+      "Amount": 57400,
+      "Probability": 50,
+      "CloseDate": "2026-06-27",
+      "AccountId": "@AccRef3"
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "OppRef15"
+      },
+      "Name": "Quantum Suite Expansion",
+      "StageName": "Perception Analysis",
+      "Amount": 42750,
+      "Probability": 70,
+      "CloseDate": "2026-07-08",
+      "AccountId": "@AccRef4"
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "OppRef16"
+      },
+      "Name": "Ridge Modernization Pilot",
+      "StageName": "Prospecting",
+      "Amount": 21300,
+      "Probability": 10,
+      "CloseDate": "2026-08-11",
+      "AccountId": "@AccRef5"
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "OppRef17"
+      },
+      "Name": "Riverstone Field Ops",
+      "StageName": "Qualification",
+      "Amount": 50100,
+      "Probability": 10,
+      "CloseDate": "2026-03-31",
+      "AccountId": "@AccRef6"
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "OppRef18"
+      },
+      "Name": "NorthPeak Upgrade",
+      "StageName": "Need Analysis",
+      "Amount": 36550,
+      "Probability": 20,
+      "CloseDate": "2026-09-02",
+      "AccountId": "@AccRef7"
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "OppRef19"
+      },
+      "Name": "Cedar Initiative",
+      "StageName": "Value Proposition",
+      "Amount": 68900,
+      "Probability": 50,
+      "CloseDate": "2026-10-14",
+      "AccountId": "@AccRef8"
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "OppRef20"
+      },
+      "Name": "Silverline Accelerator",
+      "StageName": "Perception Analysis",
+      "Amount": 43980,
+      "Probability": 70,
+      "CloseDate": "2026-11-06",
+      "AccountId": "@AccRef9"
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "OppRef21"
+      },
+      "Name": "Iron Harbor Program",
+      "StageName": "Prospecting",
+      "Amount": 25640,
+      "Probability": 10,
+      "CloseDate": "2026-12-12",
+      "AccountId": "@AccRef10"
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "OppRef22"
+      },
+      "Name": "BrightForge Workflow",
+      "StageName": "Qualification",
+      "Amount": 49520,
+      "Probability": 10,
+      "CloseDate": "2026-04-08",
+      "AccountId": "@AccRef11"
+    }
+  ]
+}
