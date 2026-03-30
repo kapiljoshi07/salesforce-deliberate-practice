@@ -1,0 +1,86 @@
+<template>
+    <c-event-passer></c-event-passer>
+    <lightning-modal-header label="Are you sure to edit account address?">
+    </lightning-modal-header>
+    <lightning-modal-body class="slds-is-relative">
+        <div if:true={isLoading}>
+            <lightning-spinner alternative-text="Loading" 
+                               size="xx-small"
+                               variant="base">
+            </lightning-spinner>
+        </div>
+        <div if:false={isLoading}>
+            <div class="slds-grid slds-wrap slds-guttters">
+                <div class="slds-col slds-size_1-of-1 slds-medium-size_1-of-1">
+                    <ul class="slds-button-group-row">
+                        <li class="slds-button-group-item">
+                            <button data-id="Address" 
+                                    data-target-id="Shipping" 
+                                    data-target-selected="true"
+                                    onclick={handleAddrTypeSelection}
+                                    class="slds-button slds-button_neutral slds-m-left_x-small selectedAddrType">
+                                <label>Shipping Address</label>
+                            </button>
+                        </li>
+                        <li class="slds-button-group-item">
+                            <button data-id="Address" 
+                                    data-target-id="Billing" 
+                                    data-target-selected="false"
+                                    onclick={handleAddrTypeSelection}
+                                    class="slds-button slds-button_neutral slds-m-left_x-small">
+                                <label>Billing Address</label>
+                            </button>
+                        </li>
+                    </ul>
+                </div>
+                <div class="slds-col slds-size_1-of-1 slds-medium-size_1-of-2 slds-form-element slds-p-around_small">
+                    <div id="currentAddressInfo" class="slds-form-element__control">
+                        <lightning-input-address address-label={oldAddressLabel} 
+                                                street-label="Street"
+                                                city-label="City"
+                                                country-label="Country"
+                                                province-label="Province"
+                                                postal-code-label="PostalCode"
+                                                street={oldAddr.street}
+                                                city={oldAddr.city}
+                                                country={oldAddr.country}
+                                                province={oldAddr.state}
+                                                postal-code={oldAddr.postalCode}
+                                                province-options={getProvinceOptions}
+                                                read-only>
+                        </lightning-input-address>
+                    </div>
+                </div>
+                <div class="slds-col slds-size_1-of-1 slds-medium-size_1-of-2 slds-p-around_small">
+                    <div id="newAddressInfo" class="slds-form-element__control">
+                        <lightning-input-address address-label={newAddressLabel}
+                                                street-label="Street"
+                                                city-label="City"
+                                                country-label="Country"
+                                                province-label="Province"
+                                                postal-code-label="PostalCode"
+                                                street={newAddr.street}
+                                                city={newAddr.city}
+                                                country={newAddr.country}
+                                                province={newAddr.state}
+                                                postal-code={newAddr.postalCode}
+                                                province-options={getProvinceOptions}
+                                                onchange={handleChange}>
+                        </lightning-input-address>
+                    </div>
+                </div> 
+            </div>
+        </div>
+    </lightning-modal-body>
+    <lightning-modal-footer>
+        <lightning-button variant="base"
+                          label="Cancel" 
+                          onclick={close}
+                          class="slds-m-right_small">
+        </lightning-button>
+        <lightning-button variant="brand"
+                          label="Save" 
+                          onclick={handleSave}>
+        </lightning-button>
+    </lightning-modal-footer>
+</template>

@@ -1,0 +1,9 @@
+.selectedAddrType {
+    padding: 0 1rem 0 1rem;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid #00b4d8;
+    background-color: #caf0f8;
+    text-decoration-color: white;
+    color: #00b4d8;
+}
